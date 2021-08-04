@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserApps2</string>
+    <string name="hello_blank_fragment">Hallo blank fragment</string>
+    <string name="search_username">Cari Username</string>
+    <string name="name_not_found">Nama Tidak Tersedia</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="input_github_username">Masukkan User Github...</string>
+    <string name="type">Tipe</string>
+    <string name="language_info">Indonesia</string>
+    <string name="title_setting">Pengaturan</string>
+    <string name="user_favorite">Favorit Pengguna</string>
+    <string name="detail_favorite">Detail Pengguna</string>
+    <string name="reminder">Pengingat Pukul 09.00 AM</string>
+    <string name="languages_settings">Pengaturan Bahasa</string>
+    <string name="successfully_added">Berhasil Ditambah Ke Favorite</string>
+    <string name="successfully_remove">Berhasil Di Hapus Dari Favorite</string>
+    <string name="title_home">Pencarian Pengguna Github</string>
+    <string name="title_notif">Github Apps</string>
+    <string name="repeat_alarm_on">Repeating alarm Hidup</string>
+    <string name="repeat_alarm_off">Repeating alarm Mati</string>
+    <string name="text_notif">Buka Aplikasi ini dan Cari User Favorit Anda</string>
+    <string name="widget_enabled">Github Widget Aktif</string>
+    <string name="widget_disabled">Github Widget Non Aktif</string>
+</resources>

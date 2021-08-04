@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserApps2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_username">Search Username</string>
+    <string name="name_not_found">Name Not Found</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="input_github_username">Input Github Username...</string>
+    <string name="type">Type</string>
+    <string name="language_info">English</string>
+    <string name="title_setting">Settings</string>
+    <string name="user_favorite">Favorite User</string>
+    <string name="detail_favorite">Detail User</string>
+    <string name="reminder">Reminder at 09.00 AM</string>
+    <string name="languages_settings">Languages Settings</string>
+    <string name="successfully_added">Successfully Added To Favorites</string>
+    <string name="successfully_remove">Successfully Remove From Favorite</string>
+    <string name="title_home">Github Search User</string>
+    <string name="title_notif">Github Apps</string>
+    <string name="repeat_alarm_on">Repeating alarm is turned on</string>
+    <string name="repeat_alarm_off">Repeating alarm is turned off</string>
+    <string name="text_notif">Open this application and search for your favorite user</string>
+    <string name="widget_enabled">Github Widget Activated</string>
+    <string name="widget_disabled">Github Widget Deactivated</string>
+</resources>
